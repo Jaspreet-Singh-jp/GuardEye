@@ -1,0 +1,11 @@
+streamlit>=1.30
+streamlit-webrtc>=0.47
+opencv-python
+mediapipe
+ultralytics
+pytorch-lightning
+torch
+torchvision
+torchaudio
+numpy
+pandas
